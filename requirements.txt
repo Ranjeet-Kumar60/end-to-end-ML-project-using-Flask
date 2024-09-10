@@ -4,3 +4,4 @@ feature-engine
 flask
 flask-wtf
 gunicorn
+numpy==1.24.3
